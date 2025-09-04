@@ -1,5 +1,5 @@
 # 🛒 SwiftUI Image Disk Cache - Demo E-Commerce
----
+
 Una demostración visual e interactiva de una pantalla bancaria que muestra cómo crecen tus intereses con animaciones progresivas, soporte para modo claro/oscuro y visualización de movimientos recientes. Ideal para apps tipo fintech o de ahorro.
 
 ## 🎥 Demo

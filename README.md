@@ -1,6 +1,6 @@
 # 🛒 SwiftUI Image Disk Cache - Demo E-Commerce
 
-Una demo práctica de un e-commerce en SwiftUI que muestra cómo implementar un sistema de caché de imágenes en memoria y disco usando NSCache + FileManager. Incluye lista de productos y carrito de compras con soporte para modo claro/oscuro y un tema de color personalizable.
+Una demo práctica de un e-commerce en SwiftUI que muestra cómo implementar un sistema de caché de imágenes en memoria y disco usando NSCache + FileManager. Incluye lista de productos y carrito de compras.
 
 ## 🎥 Demo
 | | |

@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		7167A3E02E69D99000005E63 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7167A3CA2E69D99000005E63 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7167A3D12E69D99000005E63;
+			remoteInfo = StoreImageDiskCache;
+		};
+		7167A3EA2E69D99000005E63 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7167A3CA2E69D99000005E63 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7167A3D12E69D99000005E63;
+			remoteInfo = StoreImageDiskCache;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7167A3D22E69D99000005E63 /* StoreImageDiskCache.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoreImageDiskCache.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7167A3DF2E69D99000005E63 /* StoreImageDiskCacheTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoreImageDiskCacheTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7167A3E92E69D99000005E63 /* StoreImageDiskCacheUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoreImageDiskCacheUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		7167A3D42E69D99000005E63 /* StoreImageDiskCache */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = StoreImageDiskCache;
+			sourceTree = "<group>";
+		};
+		7167A3E22E69D99000005E63 /* StoreImageDiskCacheTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = StoreImageDiskCacheTests;
+			sourceTree = "<group>";
+		};
+		7167A3EC2E69D99000005E63 /* StoreImageDiskCacheUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = StoreImageDiskCacheUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7167A3CF2E69D99000005E63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3DC2E69D99000005E63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3E62E69D99000005E63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7167A3C92E69D99000005E63 = {
+			isa = PBXGroup;
+			children = (
+				7167A3D42E69D99000005E63 /* StoreImageDiskCache */,
+				7167A3E22E69D99000005E63 /* StoreImageDiskCacheTests */,
+				7167A3EC2E69D99000005E63 /* StoreImageDiskCacheUITests */,
+				7167A3D32E69D99000005E63 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7167A3D32E69D99000005E63 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7167A3D22E69D99000005E63 /* StoreImageDiskCache.app */,
+				7167A3DF2E69D99000005E63 /* StoreImageDiskCacheTests.xctest */,
+				7167A3E92E69D99000005E63 /* StoreImageDiskCacheUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7167A3D12E69D99000005E63 /* StoreImageDiskCache */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7167A3F32E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCache" */;
+			buildPhases = (
+				7167A3CE2E69D99000005E63 /* Sources */,
+				7167A3CF2E69D99000005E63 /* Frameworks */,
+				7167A3D02E69D99000005E63 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				7167A3D42E69D99000005E63 /* StoreImageDiskCache */,
+			);
+			name = StoreImageDiskCache;
+			packageProductDependencies = (
+			);
+			productName = StoreImageDiskCache;
+			productReference = 7167A3D22E69D99000005E63 /* StoreImageDiskCache.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7167A3DE2E69D99000005E63 /* StoreImageDiskCacheTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7167A3F62E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCacheTests" */;
+			buildPhases = (
+				7167A3DB2E69D99000005E63 /* Sources */,
+				7167A3DC2E69D99000005E63 /* Frameworks */,
+				7167A3DD2E69D99000005E63 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7167A3E12E69D99000005E63 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7167A3E22E69D99000005E63 /* StoreImageDiskCacheTests */,
+			);
+			name = StoreImageDiskCacheTests;
+			packageProductDependencies = (
+			);
+			productName = StoreImageDiskCacheTests;
+			productReference = 7167A3DF2E69D99000005E63 /* StoreImageDiskCacheTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7167A3E82E69D99000005E63 /* StoreImageDiskCacheUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7167A3F92E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCacheUITests" */;
+			buildPhases = (
+				7167A3E52E69D99000005E63 /* Sources */,
+				7167A3E62E69D99000005E63 /* Frameworks */,
+				7167A3E72E69D99000005E63 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7167A3EB2E69D99000005E63 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7167A3EC2E69D99000005E63 /* StoreImageDiskCacheUITests */,
+			);
+			name = StoreImageDiskCacheUITests;
+			packageProductDependencies = (
+			);
+			productName = StoreImageDiskCacheUITests;
+			productReference = 7167A3E92E69D99000005E63 /* StoreImageDiskCacheUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7167A3CA2E69D99000005E63 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					7167A3D12E69D99000005E63 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					7167A3DE2E69D99000005E63 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 7167A3D12E69D99000005E63;
+					};
+					7167A3E82E69D99000005E63 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 7167A3D12E69D99000005E63;
+					};
+				};
+			};
+			buildConfigurationList = 7167A3CD2E69D99000005E63 /* Build configuration list for PBXProject "StoreImageDiskCache" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7167A3C92E69D99000005E63;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 7167A3D32E69D99000005E63 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7167A3D12E69D99000005E63 /* StoreImageDiskCache */,
+				7167A3DE2E69D99000005E63 /* StoreImageDiskCacheTests */,
+				7167A3E82E69D99000005E63 /* StoreImageDiskCacheUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7167A3D02E69D99000005E63 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3DD2E69D99000005E63 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3E72E69D99000005E63 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7167A3CE2E69D99000005E63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3DB2E69D99000005E63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7167A3E52E69D99000005E63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7167A3E12E69D99000005E63 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7167A3D12E69D99000005E63 /* StoreImageDiskCache */;
+			targetProxy = 7167A3E02E69D99000005E63 /* PBXContainerItemProxy */;
+		};
+		7167A3EB2E69D99000005E63 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7167A3D12E69D99000005E63 /* StoreImageDiskCache */;
+			targetProxy = 7167A3EA2E69D99000005E63 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7167A3F12E69D99000005E63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7167A3F22E69D99000005E63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7167A3F42E69D99000005E63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCache;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7167A3F52E69D99000005E63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCache;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7167A3F72E69D99000005E63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCacheTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreImageDiskCache.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StoreImageDiskCache";
+			};
+			name = Debug;
+		};
+		7167A3F82E69D99000005E63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCacheTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreImageDiskCache.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StoreImageDiskCache";
+			};
+			name = Release;
+		};
+		7167A3FA2E69D99000005E63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCacheUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = StoreImageDiskCache;
+			};
+			name = Debug;
+		};
+		7167A3FB2E69D99000005E63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DYMBNT46MA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zentribu.app.StoreImageDiskCacheUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = StoreImageDiskCache;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7167A3CD2E69D99000005E63 /* Build configuration list for PBXProject "StoreImageDiskCache" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7167A3F12E69D99000005E63 /* Debug */,
+				7167A3F22E69D99000005E63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7167A3F32E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCache" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7167A3F42E69D99000005E63 /* Debug */,
+				7167A3F52E69D99000005E63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7167A3F62E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCacheTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7167A3F72E69D99000005E63 /* Debug */,
+				7167A3F82E69D99000005E63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7167A3F92E69D99000005E63 /* Build configuration list for PBXNativeTarget "StoreImageDiskCacheUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7167A3FA2E69D99000005E63 /* Debug */,
+				7167A3FB2E69D99000005E63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7167A3CA2E69D99000005E63 /* Project object */;
+}

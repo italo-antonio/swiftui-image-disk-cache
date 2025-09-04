@@ -8,14 +8,23 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject private var cart = CartStore()
+    @State private var tab: Tab = Tab.Product
+    
+    init() { ImageMemoryCache.configure() }
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView(selection: $tab){
+            ProductView()
+                .tabItem{Label("Productos", systemImage: "bag")}
+                .tag(Tab.Product)
+            CartView()
+                .tabItem{Label("Carrito", systemImage: "cart")}
+                .tag(Tab.Cart)
+
         }
-        .padding()
+        .environmentObject(cart)
+        .tint(.purple)
     }
 }
 

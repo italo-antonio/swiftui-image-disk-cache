@@ -25,7 +25,7 @@ Una demo práctica de un e-commerce en SwiftUI que muestra cómo implementar un 
    - ✅ Xcode 15 o superior
    - ✅ iOS 17 mínimo (puedes ajustar el `Deployment Target` si lo necesitas)
    - ✅ Swift Charts framework disponible
-   - ✅ Conexión a internet para consumir la API FakeStoreAPI
+   - ✅ Conexión a internet para consumir la API [FakeStoreAPI](https://fakestoreapi.com/)
 
 4. Ejecuta la app en el simulador o en un dispositivo físico:
    - `⌘R` para correr

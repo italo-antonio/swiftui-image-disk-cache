@@ -3,8 +3,9 @@ Una demo práctica de un e-commerce en SwiftUI que muestra cómo implementar un 
 ---
 
 ## 🎥 Demo
+<img width="1179" height="2556" alt="IMG_0421" src="https://github.com/user-attachments/assets/67edca07-14e2-45ed-bc76-0fd0df57370a" />
+<img width="1179" height="2556" alt="IMG_0422" src="https://github.com/user-attachments/assets/37403a11-27b2-45a5-8b06-338030c2ef18" />
 
-<img width="1179" height="2556" alt="IMG_0409" src="https://github.com/user-attachments/assets/4151c2ea-2a31-4c73-9940-a3622c215dfa" />
 ---
 
 ## 🚀 ¿Cómo correr el proyecto?

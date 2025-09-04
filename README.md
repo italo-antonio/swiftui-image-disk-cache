@@ -2,7 +2,6 @@
 ---
 Una demostración visual e interactiva de una pantalla bancaria que muestra cómo crecen tus intereses con animaciones progresivas, soporte para modo claro/oscuro y visualización de movimientos recientes. Ideal para apps tipo fintech o de ahorro.
 
----
 ## 🎥 Demo
 <img width="1179" height="2556" alt="IMG_0421" src="https://github.com/user-attachments/assets/67edca07-14e2-45ed-bc76-0fd0df57370a" />
 <img width="1179" height="2556" alt="IMG_0422" src="https://github.com/user-attachments/assets/37403a11-27b2-45a5-8b06-338030c2ef18" />
